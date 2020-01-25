@@ -8,7 +8,6 @@ apt install -y geany geany-plugins
 # get themes
 git clone https://github.com/geany/geany-themes.git
   cd geany-themes
-
 # install themes
 ./install.sh
   cd 
