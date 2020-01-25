@@ -1,4 +1,18 @@
-# geany-themes online installer
+# geany-editor + themes online installer for Kali Linux 2020.1
+
+```
+PRETTY_NAME="Kali GNU/Linux Rolling"
+NAME="Kali GNU/Linux"
+ID=kali
+VERSION="2020.1"
+VERSION_ID="2020.1"
+VERSION_CODENAME="kali-rolling"
+ID_LIKE=debian
+ANSI_COLOR="1;31"
+HOME_URL="https://www.kali.org/"
+SUPPORT_URL="https://forums.kali.org/"
+BUG_REPORT_URL="https://bugs.kali.org/"
+```
 
 ![](https://github.com/nu11secur1ty/geany-editor/blob/master/logo/geany.png)
 
