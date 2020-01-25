@@ -14,7 +14,7 @@ SUPPORT_URL="https://forums.kali.org/"
 BUG_REPORT_URL="https://bugs.kali.org/"
 ```
 
-![](https://github.com/nu11secur1ty/geany-editor/blob/master/logo/geany.png)
+![](https://github.com/nu11secur1ty/geany-editor/blob/master/logo/geany_logo.png)
 
 https://www.geany.org/
 
