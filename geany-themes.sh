@@ -19,3 +19,7 @@ do
   echo " => $BNAME"
   cp "$SCHEME" "$CSDIR"
 done
+  cd 
+    rm -rf geany-themes
+
+exit 0;
