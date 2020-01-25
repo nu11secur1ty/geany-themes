@@ -21,5 +21,4 @@ do
 done
   cd 
     rm -rf geany-themes
-
 exit 0;
